@@ -5,11 +5,11 @@ Python Developer
 ----------------
 
 *   🌍  I'm based in Saarbrücken, Germany
-*   🖥️  See my portfolio at [github.com/WilliamPLaCroix?tab=repositories](http://github.com/WilliamPLaCroix?tab=repositories)
 *   ✉️  You can contact me at [williamplacroix@gmail.com](mailto:williamplacroix@gmail.com)
 *   🧠  I'm learning about parameter-efficient fine-tuning and methods for training mixture-of-experts language models.
 *   🤝  I'm open to collaborating on projects involving generative language models for language learning
 *   ⚡  I'm currently working on my Master's Thesis, involving fine-grained text simplification models for second language acquisition
+*   🖥️  See my portfolio below
 
 <!--
 **WilliamPLaCroix/WilliamPLaCroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
