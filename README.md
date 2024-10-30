@@ -6,7 +6,7 @@ Python Developer
 
 *   🌍  Based in Saarbrücken, Germany.
 *   ✉️  Contact me at [williamplacroix@gmail.com](mailto:williamplacroix@gmail.com)
-*   🧠  I'm learning about parameter-efficient fine-tuning and methods for training mixture-of-experts language models.
+*   🧠  I'm learning about parameter-efficient fine-tuning and methods for training and merging large language models.
 *   ⚡  Currently working on my Master's Thesis, involving fine-grained text simplification models for second language acquisition.
 *   🤝  I'm open to collaborating on projects involving generative language models for language learning.
 *   🖥️  See my portfolio below!
