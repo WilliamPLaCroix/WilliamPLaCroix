@@ -1,7 +1,7 @@
 Hi 👋 My name is William LaCroix
 ================================
 
-Python Developer
+Python Developer and Computational Linguist
 ----------------
 
 *   🌍  Based in Saarbrücken, Germany.
