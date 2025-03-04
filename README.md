@@ -9,7 +9,7 @@ Python Developer and Computational Linguist
 *   🧠  I'm learning about parameter-efficient fine-tuning and methods for training and merging large language models.
 *   ⚡  Currently working on my Master's Thesis, involving fine-grained text simplification models for second language acquisition.
 *   🤝  I'm open to collaborating on projects involving generative language models for language learning.
-*   🖥️  Click [here](https://docs.google.com/document/d/14xdIv4TJ0P4hbSgUhuftz_1lp5wMV4Im/edit?usp=sharing&ouid=108577084949444982204&rtpof=true&sd=true) to download my resume, or see my portfolio below!
+*   🖥️  Download [my resume here](https://docs.google.com/document/d/14xdIv4TJ0P4hbSgUhuftz_1lp5wMV4Im/edit?usp=sharing&ouid=108577084949444982204&rtpof=true&sd=true), or see my portfolio below!
 
 <!--
 **WilliamPLaCroix/WilliamPLaCroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
