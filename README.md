@@ -1,7 +1,7 @@
 Hi 👋 My name is William LaCroix
 ================================
 
-Early-career NLP / ML Engineering | Python, PyTorch
+2026 graduate NLP / ML Engineering | Python, PyTorch
 ----------------
 
   * Based in Germany; MSc Computational Linguistics (thesis on mixture-of-experts text simplification).
