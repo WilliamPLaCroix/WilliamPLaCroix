@@ -1,14 +1,16 @@
 Hi 👋 My name is William LaCroix
 ================================
 
-Python Developer and Computational Linguist
+Early-career NLP / ML Engineering | Python, PyTorch
 ----------------
 
-*   🌍  Based in Saarbrücken, Germany.
-*   ✉️  Contact me at [williamplacroix@gmail.com](mailto:williamplacroix@gmail.com)
-*   🧠  I'm learning about parameter-efficient fine-tuning and methods for training and merging large language models.
-*   ⚡  Currently working on my Master's Thesis, involving fine-grained text simplification models for second language acquisition.
-*   🤝  I'm open to collaborating on projects involving generative language models for language learning.
+  * Based in Germany; MSc Computational Linguistics (thesis on mixture-of-experts text simplification).
+  * Focus on applied NLP/ML engineering: Python, PyTorch, scikit-learn, reproducible training/eval.
+  * Interested in text simplification and LLM fine-tuning for practical tasks (e.g., second language acquisition).
+  * Current work: building a fine-grained text simplification pipeline (data prep → training → eval), emphasizing readability and grade-level evaluation.
+  * Contact:
+    * [williamplacroix@gmail.com](williamplacroix@gmail.com)
+    * [linkedin.com/in/williamplacroix/](https://www.linkedin.com/in/williamplacroix/)
 
 <!--
 **WilliamPLaCroix/WilliamPLaCroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
