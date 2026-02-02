@@ -1,15 +1,21 @@
-Hi 👋 My name is William LaCroix
-================================
+## William LaCroix
 
-2026 graduate Languauge Science and Technology
-----------------
+MSc Computational Linguistics (Language Science and Technology), graduating March 2026  
+Based in Germany
 
-  * Based in Germany; MSc Computational Linguistics (thesis on mixture-of-experts text simplification).
-  * Focus on applied NLP / ML engineering with Python, PyTorch, Pandas, and scikit-learn.
-  * Interested in text simplification and LLM fine-tuning for practical tasks (e.g., second language acquisition).
-  * Current work: building a controllable text simplification pipeline (data prep → finetuning → eval), emphasizing text readability and grade-level evaluation.
-  * Contact:
-    * [linkedin.com/in/williamplacroix/](https://www.linkedin.com/in/williamplacroix/)
+Focused on applied NLP / ML engineering, with an emphasis on reproducible pipelines and model evaluation.
+
+**Current work**
+- Master’s thesis on controllable text simplification using mixture-of-experts models
+- End-to-end pipeline development: data preparation → fine-tuning → evaluation
+- Emphasis on readability, grade-level control, and task-specific evaluation
+
+**Technical focus**
+- Python, PyTorch, scikit-learn, pandas
+- Applied NLP and ML systems (training, evaluation, inference)
+
+**Contact**
+  * [linkedin.com/in/williamplacroix/](https://www.linkedin.com/in/williamplacroix/)
 
 <!--
 **WilliamPLaCroix/WilliamPLaCroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
