@@ -9,11 +9,11 @@ Hi 👋 My name is William LaCroix
   * Interested in text simplification and LLM fine-tuning for practical tasks (e.g., second language acquisition).
   * Current work: building a controllable text simplification pipeline (data prep → finetuning → eval), emphasizing text readability and grade-level evaluation.
   * Contact:
-    * [williamplacroix@gmail.com](williamplacroix@gmail.com)
     * [linkedin.com/in/williamplacroix/](https://www.linkedin.com/in/williamplacroix/)
 
 <!--
 **WilliamPLaCroix/WilliamPLaCroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    * [williamplacroix@gmail.com](williamplacroix@gmail.com)
 
 Here are some ideas to get you started:
 
