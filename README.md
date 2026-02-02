@@ -1,11 +1,11 @@
 Hi 👋 My name is William LaCroix
 ================================
 
-2026 graduate applied NLP / ML Engineering
+2026 graduate Languauge Science and Technology
 ----------------
 
   * Based in Germany; MSc Computational Linguistics (thesis on mixture-of-experts text simplification).
-  * Focus on applied NLP/ML engineering with Python, PyTorch, Pandas, and scikit-learn.
+  * Focus on applied NLP / ML engineering with Python, PyTorch, Pandas, and scikit-learn.
   * Interested in text simplification and LLM fine-tuning for practical tasks (e.g., second language acquisition).
   * Current work: building a controllable text simplification pipeline (data prep → finetuning → eval), emphasizing text readability and grade-level evaluation.
   * Contact:
