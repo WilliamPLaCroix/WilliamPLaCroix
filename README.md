@@ -1,6 +1,6 @@
 ## William LaCroix
 
-MSc Computational Linguistics (Language Science and Technology), graduating March 2026  
+MSc Computational Linguistics (Language Science and Technology), graduating 2026  
 Based in Germany
 
 Focused on applied NLP / ML engineering, with an emphasis on reproducible pipelines and model evaluation.
