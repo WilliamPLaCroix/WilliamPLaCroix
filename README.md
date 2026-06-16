@@ -1,6 +1,6 @@
 ## William LaCroix
 
-**MSc Computational Linguistics (Language Science and Technology) March 2026  **
+**MSc Computational Linguistics (Language Science and Technology) March 2026**
 - Thesis work: Controllable text simplification using mixture-of-experts models
 - End-to-end pipeline development: data preparation → LoRA fine-tuning → evaluation
 - Emphasis on readability, grade-level control, and task-specific evaluation
