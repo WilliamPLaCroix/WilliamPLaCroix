@@ -12,7 +12,7 @@
 
 **Personal passion project**
 - [Those Who Rule wiki](https://thosewhorule.wiki.gg/)
-- Fully designed all pages via CSS/JS/Wikitext (based on wiki.gg scaffolding)
+- Designed and authored all pages via CSS/JS/Wikitext (based on wiki.gg scaffolding)
 - Updated for new versions/patches
 
 **Contact**
